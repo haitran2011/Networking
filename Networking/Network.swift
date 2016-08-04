@@ -11,3 +11,7 @@ import Foundation
 public func getItems() {
     print(#function)
 }
+
+public func setItem(){
+    print(#function)
+}
